@@ -1,0 +1,152 @@
+============================================================
+Equation: - 2 x e^{- \frac{x}{2}} + 1
+Value of x0: 0.0 
+
+Value of a: 0.0
+Value of b: 1.0 
+
+Newton's method root is: 0.714805912362771
+Number of iterations: 4
+Secant's method root is: 0.714805912231240
+Number of iterations: 6
+Bisection's method root is: 0.714806079864502
+Number of iterations: 20
+============================================================ 
+
+============================================================
+Equation: 5 - \frac{1}{x}
+Value of x0: 0.25 
+
+Value of a: 0.1
+Value of b: 5.0 
+
+Newton's method root is: 0.200000000000000
+Number of iterations: 4
+Secant's method root is: 0.199999999992912
+Number of iterations: 7
+Bisection's method root is: 0.20000024437904354
+Number of iterations: 23
+============================================================ 
+
+============================================================
+Equation: x^{3} - 2 x - 5
+Value of x0: 2.0 
+
+Value of a: 2.0
+Value of b: 3.0 
+
+Newton's method root is: 2.09455148154233
+Number of iterations: 3
+Secant's method root is: 2.09455148169824
+Number of iterations: 3
+Bisection's method root is: 2.0945515632629395
+Number of iterations: 20
+============================================================ 
+
+============================================================
+Equation: e^{x} - 2
+Value of x0: 1.0 
+
+Value of a: 0.5
+Value of b: 2.0 
+
+Newton's method root is: 0.693147180560026
+Number of iterations: 3
+Secant's method root is: 0.693147180559946
+Number of iterations: 6
+Bisection's method root is: 0.6931473016738892
+Number of iterations: 21
+============================================================ 
+
+============================================================
+Equation: x - e^{- x}
+Value of x0: 1.0 
+
+Value of a: 0.3
+Value of b: 2.0 
+
+Newton's method root is: 0.567143290409784
+Number of iterations: 3
+Secant's method root is: 0.567143290409826
+Number of iterations: 5
+Bisection's method root is: 0.5671428918838499
+Number of iterations: 21
+============================================================ 
+
+============================================================
+Equation: x^{6} - x - 1
+Value of x0: 1.0 
+
+Value of a: 0.3
+Value of b: 2.0 
+
+Newton's method root is: 1.13472413840154
+Number of iterations: 4
+Secant's method root is: 1.13472413838942
+Number of iterations: 5
+Bisection's method root is: 1.13472421169281
+Number of iterations: 21
+============================================================ 
+
+============================================================
+Equation: x^{2} - \sin{\left(x \right)}
+Value of x0: 0.5 
+
+Value of a: 0.5
+Value of b: 1.0 
+
+Newton's method root is: 0.876726215395062
+Number of iterations: 7
+Secant's method root is: 0.876726215393973
+Number of iterations: 8
+Bisection's method root is: 0.8767266273498535
+Number of iterations: 19
+============================================================ 
+
+============================================================
+Equation: x^{3} - 2
+Value of x0: 1.0 
+
+Value of a: 0.5
+Value of b: 2.0 
+
+Newton's method root is: 1.25992104989487
+Number of iterations: 4
+Secant's method root is: 1.25992104976881
+Number of iterations: 5
+Bisection's method root is: 1.2599209547042847
+Number of iterations: 21
+============================================================ 
+
+============================================================
+Equation: x + \tan{\left(x \right)}
+Value of x0: 3.0 
+
+Value of a: 1.8
+Value of b: 2.5 
+
+Newton's method root is: 2.02875783811043
+Number of iterations: 10
+Secant's method root is: 2.02875783811043
+Number of iterations: 22
+Bisection's method root is: 2.028757905960082
+Number of iterations: 20
+============================================================ 
+
+============================================================
+Equation: 2 - \frac{\log{\left(x \right)}}{x}
+Value of x0: 0.3333333333333333 
+
+Value of a: 0.1
+Value of b: 2.0 
+
+Newton's Method failed to converge from the given initial guess.
+Division by zero. Secant method failed to converge.
+Values of a and b are not valid
+Newton's method root is: None
+Number of iterations: None
+Secant's method root is: None
+Number of iterations: None
+Bisection's method root is: None
+Number of iterations: None
+============================================================ 
