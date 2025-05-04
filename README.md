@@ -1,4 +1,4 @@
-This repository contains solutions to homework assignments for the Numerical Analysis and Computing course. Each homework is organized with source code and brief explanations below.
+This repository contains solutions to homework assignments for the Numerical Analysis and Computing course (RU). Each homework is organized with source code and brief explanations below.
 
 HW1: Root‑Finding Methods
 Implements three classic algorithms to find a root of a given function, stopping when successive approximations differ by less than 10⁻⁶.
